@@ -485,34 +485,19 @@ header .scroll-bar{
 .footer{
     background:#f9f9f9;
     color:#333;
-    font-size: 2rem;
+    font-size: 1.2rem;
     padding:2.5rem 1rem;
     text-align: center;
 }
 
 .footer a{
     color:var(--pink);
+    text-decoration: solid;
 }
 
 .footer a:hover{
     text-decoration: underline;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* media queries  */
 
